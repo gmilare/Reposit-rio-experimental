@@ -31,3 +31,24 @@ dir /a
 
 git status
 
+7. Adicionar o arquivo Roteiro.txt na pasta do Repositorio-experimental
+
+8. Verificar o status com o comando git status, ndetectando a existência de um novo arquivo
+
+9. Incluir como parte do repositório através do comando git add
+
+git add Roteiro.txt
+
+10. confirmar a inclusão do arquivo no repositório local
+
+git commit -m "Adicionando arquivo txt"
+
+11. Sincronizar as modificações do repositório local para o repositório remoto no Github, com o comando git push
+
+git push
+
+
+
+
+
+
